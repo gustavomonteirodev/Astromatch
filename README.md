@@ -1,4 +1,4 @@
-# ASTROMATCH 💚
+# ASTROMATCH 🤍
 
 Objetivo de fazer um clone do Tinder: o Astromatch
 
